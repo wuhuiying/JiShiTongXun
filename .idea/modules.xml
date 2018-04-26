@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CartShoping-master/CartShoping-master.iml" filepath="$PROJECT_DIR$/CartShoping-master/CartShoping-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeJiBeiDou.iml" filepath="$PROJECT_DIR$/KeJiBeiDou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui1/easeui1.iml" filepath="$PROJECT_DIR$/easeui1/easeui1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpledemo/simpledemo.iml" filepath="$PROJECT_DIR$/simpledemo/simpledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/why/why.iml" filepath="$PROJECT_DIR$/why/why.iml" />
+    </modules>
+  </component>
+</project>
